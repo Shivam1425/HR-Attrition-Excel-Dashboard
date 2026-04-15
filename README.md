@@ -13,13 +13,14 @@ This project was built to help answer practical HR questions such as:
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](./Screenshots/Screenshot%202026-04-12%20180410.png)
+![Dashboard Detail 2](./Screenshots/Screenshot%202026-04-12%20180642.png)
 
 Additional dashboard views:
 
 ![Dashboard Detail 1](./Screenshots/Screenshot%202026-04-12%20180440.png)
 
-![Dashboard Detail 2](./Screenshots/Screenshot%202026-04-12%20180642.png)
+![HR Attrition Dashboard](./Screenshots/Screenshot%202026-04-12%20180410.png)
+
 
 ---
 
